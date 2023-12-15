@@ -175,6 +175,7 @@ MonoBehaviour:
   speed: 2
   vertical: 0
   changeTime: 2
+  broken: 1
 --- !u!95 &-7086622282281934255
 Animator:
   serializedVersion: 5
